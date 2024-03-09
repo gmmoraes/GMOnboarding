@@ -1,0 +1,16 @@
+PODS:
+  - ConcentricOnboarding (1.0.5)
+
+DEPENDENCIES:
+  - ConcentricOnboarding (from `../`)
+
+EXTERNAL SOURCES:
+  ConcentricOnboarding:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ConcentricOnboarding: 827c2f1b1e8c2a37c712c5cce301c286df7246d3
+
+PODFILE CHECKSUM: 60c4962d628e84b47cf1cb7963a138dfc9a1ffa5
+
+COCOAPODS: 1.15.2

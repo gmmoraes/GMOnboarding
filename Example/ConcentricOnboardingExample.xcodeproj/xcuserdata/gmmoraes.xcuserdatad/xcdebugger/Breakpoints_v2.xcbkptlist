@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "695B020C-3B0B-4A0D-8DB1-72A94E71CA72"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECF26DE1-4EFE-4B09-8316-18E655E09EEB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Sources/ConcentricOnboarding/Helpers/AnimatableShape.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "path(in:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ECF26DE1-4EFE-4B09-8316-18E655E09EEB - d760f4ddae04372a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConcentricOnboarding.AnimatableShape.path(in: __C.CGRect) -&gt; SwiftUI.Path"
+                  moduleName = "ConcentricOnboardingExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gmmoraes/Downloads/ConcentricOnboarding-master/Sources/ConcentricOnboarding/Helpers/AnimatableShape.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "ECF26DE1-4EFE-4B09-8316-18E655E09EEB - d760f4ddae04372a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConcentricOnboarding.AnimatableShape.path(in: __C.CGRect) -&gt; SwiftUI.Path"
+                  moduleName = "ConcentricOnboardingExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gmmoraes/Downloads/ConcentricOnboarding-master/Sources/ConcentricOnboarding/Helpers/AnimatableShape.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
